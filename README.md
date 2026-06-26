@@ -57,8 +57,9 @@ Electronics & Communication Engineering Student | Embedded Systems | VLSI | AI &
 
 ### ⚡ Embedded Systems
 
-- UART Communication System
-- I2C Distance Measurement System 
+SPI Firmware Automation – ESP32 (SPI Master) ↔ Arduino Uno (SPI Slave) communication with Python automation, live monitoring, CSV logging and real-time visualization.
+I2C Firmware Automation – ESP32 ↔ Arduino Uno communication with automated testing, live monitoring and data logging.
+UART Communication System – Serial communication between Python and ESP32 for command-based embedded applications.
 
 ### 🔧 VLSI
 
