@@ -59,7 +59,7 @@ Electronics & Communication Engineering Student | Embedded Systems | VLSI | AI &
 ### ⚡ Embedded Systems
 
 - UART Communication System
-- I2C Distance Measurement System *(In Progress)*
+- I2C Distance Measurement System 
 
 ### 🔧 VLSI
 
