@@ -12,7 +12,7 @@ Electronics & Communication Engineering Student | Embedded Systems | VLSI | AI &
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering
+- 🎓 B.E in Electronics & Communication Engineering
 - 💻 Interested in Embedded Systems, VLSI and AI/ML
 - 🌱 Currently learning Embedded C, Verilog, ASIC Physical Design Flow 
 - 🔬 Building Embedded Systems, RTL Design and AI projects
