@@ -95,7 +95,6 @@ UART Communication System – Serial communication between Python and ESP32 for 
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/aanandi2004
 - LinkedIn: https://www.linkedin.com/in/aanandi-aarya-6594a2315/
 
 ---
