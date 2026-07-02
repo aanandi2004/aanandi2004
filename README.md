@@ -14,9 +14,9 @@ Electronics & Communication Engineering Student | Embedded Systems | VLSI | AI &
 
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 💻 Interested in Embedded Systems, VLSI and AI/ML
-- 🌱 Currently learning Embedded C, STM32, SystemVerilog, ASIC Physical Design Flow and Computer Organization & Architecture
+- 🌱 Currently learning Embedded C, Verilog, ASIC Physical Design Flow 
 - 🔬 Building Embedded Systems, RTL Design and AI projects
-- 🎯 Goal: Embedded Software Engineer | RTL Design Engineer | ASIC Design Engineer
+- 🎯 Goal: Embedded Software Engineer | RTL Design Engineer | Verification Engineer | ASIC Design Engineer
 
 ---
 
@@ -30,7 +30,6 @@ Electronics & Communication Engineering Student | Embedded Systems | VLSI | AI &
 
 ### Embedded Systems
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-blue?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-success?style=for-the-badge)
 ![PySerial](https://img.shields.io/badge/PySerial-green?style=for-the-badge)
@@ -98,8 +97,6 @@ UART Communication System – Serial communication between Python and ESP32 for 
 
 - GitHub: https://github.com/aanandi2004
 - LinkedIn: https://www.linkedin.com/in/aanandi-aarya-6594a2315/
-- LeetCode: https://leetcode.com/u/a_aarya/
-- Email: aanandiaarya2004@gmail.com
 
 ---
 
